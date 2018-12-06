@@ -1,0 +1,10 @@
+/Users/wes/Projects/conapp/asyncawaiit/bin/Debug/netcoreapp2.1/asyncawaiit.deps.json
+/Users/wes/Projects/conapp/asyncawaiit/bin/Debug/netcoreapp2.1/asyncawaiit.runtimeconfig.json
+/Users/wes/Projects/conapp/asyncawaiit/bin/Debug/netcoreapp2.1/asyncawaiit.runtimeconfig.dev.json
+/Users/wes/Projects/conapp/asyncawaiit/bin/Debug/netcoreapp2.1/asyncawaiit.dll
+/Users/wes/Projects/conapp/asyncawaiit/bin/Debug/netcoreapp2.1/asyncawaiit.pdb
+/Users/wes/Projects/conapp/asyncawaiit/obj/Debug/netcoreapp2.1/asyncawaiit.csproj.CoreCompileInputs.cache
+/Users/wes/Projects/conapp/asyncawaiit/obj/Debug/netcoreapp2.1/asyncawaiit.AssemblyInfoInputs.cache
+/Users/wes/Projects/conapp/asyncawaiit/obj/Debug/netcoreapp2.1/asyncawaiit.AssemblyInfo.cs
+/Users/wes/Projects/conapp/asyncawaiit/obj/Debug/netcoreapp2.1/asyncawaiit.dll
+/Users/wes/Projects/conapp/asyncawaiit/obj/Debug/netcoreapp2.1/asyncawaiit.pdb

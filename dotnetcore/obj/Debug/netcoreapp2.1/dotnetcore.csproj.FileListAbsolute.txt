@@ -1,0 +1,13 @@
+/Users/wes/Projects/conapp/dotnetcore/bin/Debug/netcoreapp2.1/dotnetcore.deps.json
+/Users/wes/Projects/conapp/dotnetcore/bin/Debug/netcoreapp2.1/dotnetcore.runtimeconfig.json
+/Users/wes/Projects/conapp/dotnetcore/bin/Debug/netcoreapp2.1/dotnetcore.runtimeconfig.dev.json
+/Users/wes/Projects/conapp/dotnetcore/bin/Debug/netcoreapp2.1/dotnetcore.dll
+/Users/wes/Projects/conapp/dotnetcore/bin/Debug/netcoreapp2.1/dotnetcore.pdb
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.csproj.CoreCompileInputs.cache
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.RazorAssemblyInfo.cache
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.RazorAssemblyInfo.cs
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.AssemblyInfoInputs.cache
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.AssemblyInfo.cs
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.RazorTargetAssemblyInfo.cache
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.dll
+/Users/wes/Projects/conapp/dotnetcore/obj/Debug/netcoreapp2.1/dotnetcore.pdb

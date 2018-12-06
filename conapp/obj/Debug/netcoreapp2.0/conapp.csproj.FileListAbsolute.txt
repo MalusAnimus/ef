@@ -1,0 +1,11 @@
+/Users/wes/Projects/conapp/conapp/bin/Debug/netcoreapp2.0/conapp.deps.json
+/Users/wes/Projects/conapp/conapp/bin/Debug/netcoreapp2.0/conapp.runtimeconfig.json
+/Users/wes/Projects/conapp/conapp/bin/Debug/netcoreapp2.0/conapp.runtimeconfig.dev.json
+/Users/wes/Projects/conapp/conapp/bin/Debug/netcoreapp2.0/conapp.dll
+/Users/wes/Projects/conapp/conapp/bin/Debug/netcoreapp2.0/conapp.pdb
+/Users/wes/Projects/conapp/conapp/obj/Debug/netcoreapp2.0/conapp.csprojAssemblyReference.cache
+/Users/wes/Projects/conapp/conapp/obj/Debug/netcoreapp2.0/conapp.csproj.CoreCompileInputs.cache
+/Users/wes/Projects/conapp/conapp/obj/Debug/netcoreapp2.0/conapp.AssemblyInfoInputs.cache
+/Users/wes/Projects/conapp/conapp/obj/Debug/netcoreapp2.0/conapp.AssemblyInfo.cs
+/Users/wes/Projects/conapp/conapp/obj/Debug/netcoreapp2.0/conapp.dll
+/Users/wes/Projects/conapp/conapp/obj/Debug/netcoreapp2.0/conapp.pdb
